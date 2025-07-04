@@ -8,7 +8,7 @@ Recommend to contact the XiaoHongShu to get permission by email RED.AD@xiaohongs
 Run the script and follow the prompts<br>
 
 # Update log
-20250405:<br>#
+20250405:<br>
 fix bug: indefinete loop origining from the change of the loading end prompt in XiaoHongShu website; other small bugs. <br>
 20250205:<br>
 optimise the updates checking mechanism <br>
