@@ -2,6 +2,7 @@
 本脚本用于获取小红书笔记数据<br>
 输入搜索关键词，正常情况下将生成2个表格：search_result.xlsx，notes_contents and comments.xlsx<br>
 目标信息； 笔记作者，发表ip（如有），发表日期，笔记内容，笔记评论（筛选被作者回复的评论）<br>
+建议联系小红书客服获取相关授权以规避潜在伦理风险RED.AD@xiaohongshu.com <br>
 
 二、使用<br>
 双击脚本，依据提示进行操作<br>
